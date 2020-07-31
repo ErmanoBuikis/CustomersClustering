@@ -1,0 +1,21 @@
+
+	# Args
+/GeoLock$ python3 geolock.py -s PD1 -c 4
+ 
+ 	# Output
+  Your image has been saved to 
+ /home/localhost/Desktop/GeoLock/img/map-with-points/ 
+
+
+	# Help
+/GeoLock$ python3 geolock.py -h
+
+	# Output
+usage: geolock3.py [-h] -s  -c
+
+Generate client cluster map
+
+optional arguments:
+  -h, --help       show this help message and exit
+  -s , --store     Code Store
+  -c , --cluster   Number of Clusters

@@ -29,5 +29,10 @@ Each python file/notebook have automatic save for the images in a determinate pa
 
   
 ## Usage
-You can run the file .ipynb alone or run the geolock_script.py. In the latter, you will need to update your map of preference 
-in the data structure contained in 
+You can run the file .ipynb alone or run the geolock_script.py. 
+
+1. Download the map of the zone you need to analyze. Download the map as .png into the /img/map-only/ folder.
+   Remember the max/min latitude and longitude of the map for the second step.
+3. In both, you will need to update your data structure contained in data_cities with the new map data, 
+    such as: the name of the file .png, the max and the min of the latitude and longitude map that you downloaded.
+3. Start the script or the notebook.

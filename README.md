@@ -28,3 +28,6 @@ There are different tipes of files, are equal as result! But are baset for diffe
 Each python file/notebook have automatic save for the images in a determinate path in the project directory.
 
   
+## Usage
+You can run the file .ipynb alone or run the geolock_script.py. In the latter, you will need to update your map of preference 
+in the data structure contained in 

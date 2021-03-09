@@ -1,4 +1,4 @@
-# CustomersClustering
+# Customers Clustering
 
 DISCLAIMER! 
 For privacy IP data are omitted on the .csv file
